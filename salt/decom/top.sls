@@ -1,0 +1,3 @@
+decom:
+  '*':
+    - default
